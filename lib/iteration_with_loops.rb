@@ -8,5 +8,5 @@ def find_min_in_nested_arrays(src)
     min_array << src[row_index].sort.first 
     row_index +=1
   end
- 
+ min_array
  end
