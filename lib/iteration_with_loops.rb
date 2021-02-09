@@ -9,6 +9,7 @@ def find_min_in_nested_arrays(src)
  end 
  min_array 
  end 
+ end
    
    while element_index 
  end
